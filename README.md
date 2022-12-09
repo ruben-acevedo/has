@@ -1,6 +1,6 @@
 # has
 
-## CLI to check if Linux packages are installed locally
+## CLI to check if Linux packages are installed locally.
 
 ### Installation
 
