@@ -12,4 +12,3 @@ const has = () => {
   }
 }
 has()
-module.exports = has
