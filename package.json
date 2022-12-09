@@ -1,12 +1,12 @@
 {
   "name": "has",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI to check if packages are installed",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rubén Acevedo",
   "license": "ISC"
 }
